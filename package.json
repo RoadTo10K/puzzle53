@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-g3months-google-places",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "n8n community node for Google Places API",
   "main": "index.js",
   "scripts": {
