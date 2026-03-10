@@ -10,7 +10,7 @@ export class GooglePlaces implements INodeType {
     description: INodeTypeDescription = {
         displayName: 'Google Places',
         name: 'googlePlaces',
-        icon: 'fa:map-marker-alt',
+        icon: 'file:google-places.svg',
         group: ['transform'],
         version: 1,
         subtitle: '={{$parameter["operation"]}}',
